@@ -1,0 +1,10 @@
+ID-Payments, ID-Member, ID-Transaction, First-Name, Last-Name, Payment-Date, Pay-Action, Method, Amount, Fee, Note
+1090,1280,16,Jan,Kulisek,2024-11-25,Membership Renewal,via CC,0,1.61,Not successful payment
+1091,1280,17,Jan,Kulisek,2024-11-25,Membership Renewal,via CC,45,2.1,none
+1092,1280,17,Jan,Kulisek,2024-11-25,Donation (repeater),via CC,17,0,none
+1093,1280,18,Jan,Kulisek,2024-11-26,Membership Renewal,via CC,45,1.61,none
+1094,1280,19,Jan,Kulisek,2024-11-26,Membership Renewal,via CC,45,1.61,none
+1095,1280,20,Jan,Kulisek,2024-11-26,Membership Renewal,via CC,45,2.33,none
+1096,1280,20,Jan,Kulisek,2024-11-26,Donation (repeater),via CC,25,0,none
+1097,1280,21,Jan,Kulisek,2024-11-26,Membership Renewal,via CC,45,2.1,none
+1098,1280,21,Jan,Kulisek,2024-11-26,Donation (repeater),via CC,17,0,none

@@ -1,0 +1,150 @@
+CRITICAL - 2024-01-06 22:06:04 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(275): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(158): App\Controllers\Member->make_payment()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Member->process_mem()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-01-06 22:08:00 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(275): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(158): App\Controllers\Member->make_payment()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Member->process_mem()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-01-06 22:10:08 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(276): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(158): App\Controllers\Member->make_payment()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Member->process_mem()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-01-06 22:10:41 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(276): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(158): App\Controllers\Member->make_payment()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Member->process_mem()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-01-06 22:14:08 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(276): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(158): App\Controllers\Member->make_payment()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Member->process_mem()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-01-06 22:14:46 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(276): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(158): App\Controllers\Member->make_payment()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Member->process_mem()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-01-06 22:15:52 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(276): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(158): App\Controllers\Member->make_payment()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Member->process_mem()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-01-06 22:16:49 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(276): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(158): App\Controllers\Member->make_payment()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Member->process_mem()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-01-06 22:17:12 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(276): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(158): App\Controllers\Member->make_payment()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Member->process_mem()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-01-06 22:18:02 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(276): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(158): App\Controllers\Member->make_payment()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Member->process_mem()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-01-06 22:27:58 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(277): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(158): App\Controllers\Member->make_payment()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Member->process_mem()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-01-06 22:35:51 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(277): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(158): App\Controllers\Member->make_payment()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Member->process_mem()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-01-06 22:37:25 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(277): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(158): App\Controllers\Member->make_payment()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Member->process_mem()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-01-06 22:38:21 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(277): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(158): App\Controllers\Member->make_payment()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Member->process_mem()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-01-06 22:43:02 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(277): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(158): App\Controllers\Member->make_payment()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Member->process_mem()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

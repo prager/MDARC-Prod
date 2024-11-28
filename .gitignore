@@ -16,3 +16,7 @@ application/logs/*
 !application/logs/index.html
 !application/logs/.htaccess
 /vendor/
+
+.env
+app/Config/Database.php
+.vscode/sftp.json
