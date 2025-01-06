@@ -1016,12 +1016,13 @@ class Staff_model extends Model {
 
     $this->data_mod = new \App\Models\Data_model();
     $db = \Config\Database::connect();
-    $builder = $db->table('tMembers');
+    $builder = $db->table('tMembers');    
     $builder->where('id_mem_types', 1);
     $builder->where('cur_year >=', date('Y', $param['date_stop']));
     $builder->where('cur_year <', 9999);
 
     $res = $builder->get()->getResult();
+
     $retarr = array();
     foreach($res as $mem) {
       $mem_arr = array(

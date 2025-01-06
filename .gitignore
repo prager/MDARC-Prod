@@ -20,3 +20,5 @@ application/logs/*
 .env
 app/Config/Database.php
 .vscode/sftp.json
+
+.codegpt

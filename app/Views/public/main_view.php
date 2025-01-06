@@ -22,9 +22,9 @@
                 <label for="pass" class="form-label"> Password</label>
                 <input type="password" class="form-control" id="pass"  name="pass" placeholder="Enter Password"/>
             </div>
-            <div class="col-lg-10 mb-3">
+            <div class="col-lg-10 mb-5">
               <button type="submit" class="btn btn-primary"> Member Login </button>
-              <p><small>Lost username and/or password? Click <a href="#" data-bs-toggle="modal" class="text-decoration-none" data-bs-target="#reset">here</a>
+              <!-- <p><small>Lost username and/or password? Click <a href="#" data-bs-toggle="modal" class="text-decoration-none" data-bs-target="#reset">here</a></small></p> -->
             </div>
           </form>
       </div>
