@@ -1,0 +1,7 @@
+CRITICAL - 2024-01-01 17:36:09 --> Call to undefined method CodeIgniter\Database\MySQLi\Builder::getResult()
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Master.php(208): App\Models\Staff_model->purge_mem()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Master->purge_mem()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

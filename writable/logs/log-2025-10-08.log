@@ -1,0 +1,21 @@
+CRITICAL - 2025-10-08 14:33:26 --> Creation of dynamic property App\Controllers\Home::$login_mod is deprecated
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-prod/app/Controllers/BaseController.php(50): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-prod/system/CodeIgniter.php(802): App\Controllers\BaseController->initController()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-prod/system/CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-prod/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-prod/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2025-10-08 14:33:26 --> Uncaught ErrorException: strtolower(): Passing null to parameter #1 ($string) of type string is deprecated in /homepages/36/d117019790/htdocs/mdarc-all/mdarc-prod/system/Validation/FormatRules.php:253
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-prod/system/Validation/FormatRules.php(253): strtolower()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-prod/system/HTTP/RequestTrait.php(151): CodeIgniter\Validation\FormatRules->valid_ip()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-prod/app/Views/errors/html/error_exception.php(206): CodeIgniter\HTTP\Request->getIPAddress()
+#4 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-prod/system/Debug/Exceptions.php(229): include('/homepages/36/d...')
+#5 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-prod/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#6 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-prod/system/Debug/Exceptions.php(116): CodeIgniter\Debug\Exceptions->render()
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#8 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}

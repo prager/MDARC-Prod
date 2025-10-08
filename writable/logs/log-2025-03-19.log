@@ -1,0 +1,18 @@
+CRITICAL - 2025-03-19 22:58:03 --> Undefined variable $totalTime
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/Debug/Toolbar/Views/toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/Debug/Toolbar.php(497): include('/homepages/36/d...')
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/Debug/Toolbar.php(460): CodeIgniter\Debug\Toolbar->format()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Config/Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(300): CodeIgniter\Events\Events::trigger()
+#6 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-03-19 22:58:03 --> Undefined variable $totalTime
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/Debug/Toolbar/Views/toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/Debug/Toolbar.php(497): include('/homepages/36/d...')
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/Debug/Toolbar.php(460): CodeIgniter\Debug\Toolbar->format()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Config/Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(300): CodeIgniter\Events\Events::trigger()
+#6 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

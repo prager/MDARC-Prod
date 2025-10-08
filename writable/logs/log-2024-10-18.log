@@ -1,0 +1,16 @@
+CRITICAL - 2024-10-18 19:11:44 --> Attempt to read property "fee_amt" on null
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Models/Admin_model.php(165): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(488): App\Models\Admin_model->get_payments()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->proc_payments_report()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-10-18 19:14:28 --> Attempt to read property "fee_amt" on null
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Models/Admin_model.php(165): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(488): App\Models\Admin_model->get_payments()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->proc_payments_report()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

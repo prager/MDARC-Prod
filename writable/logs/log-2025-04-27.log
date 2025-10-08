@@ -1,0 +1,32 @@
+CRITICAL - 2025-04-27 19:55:34 --> Class "App\Libraries\MyEmail" not found
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Models/User_model.php(63): App\Models\User_model->send_email()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(241): App\Models\User_model->register()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->send_reg()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2025-04-27 19:58:05 --> Class "App\Libraries\MyEmail" not found
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Models/User_model.php(63): App\Models\User_model->send_email()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(241): App\Models\User_model->register()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->send_reg()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2025-04-27 19:58:51 --> Class "App\Libraries\MyEmail" not found
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Models/User_model.php(63): App\Models\User_model->send_email()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(241): App\Models\User_model->register()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->send_reg()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2025-04-27 20:00:51 --> Class "App\Libraries\PHPMailer\MyEmail" not found
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Models/User_model.php(63): App\Models\User_model->send_email()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(241): App\Models\User_model->register()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->send_reg()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

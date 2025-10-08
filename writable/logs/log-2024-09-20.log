@@ -1,0 +1,93 @@
+CRITICAL - 2024-09-20 13:37:19 --> Undefined variable $mem_cost
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Views/admin/mod_man_payment.php(25): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/app/Views/admin/members_view.php(94): include('/homepages/36/d...')
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/View/View.php(214): include('/homepages/36/d...')
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/Common.php(1097): CodeIgniter\View\View->render()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(80): view()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->show_members()
+#7 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#8 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#9 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-09-20 13:42:42 --> Undefined variable $mem_cost
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Views/admin/mod_man_payment.php(25): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/app/Views/admin/members_view.php(94): include('/homepages/36/d...')
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/View/View.php(214): include('/homepages/36/d...')
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/Common.php(1097): CodeIgniter\View\View->render()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(195): view()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->edit_mem()
+#7 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#8 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#9 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-09-20 13:48:07 --> Undefined variable $page
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Views/admin/members_view.php(38): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/View/View.php(214): include('/homepages/36/d...')
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/Common.php(1097): CodeIgniter\View\View->render()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(197): view()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->edit_mem()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#7 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-09-20 14:38:51 --> in_array(): Argument #2 ($haystack) must be of type array, string given
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(539): in_array()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->man_payment()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-09-20 14:42:21 --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2024-09-20 20:43:41 --> Trying to access array offset on value of type null
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(330): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(469): App\Controllers\Admin->check_admin()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->payment_report()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-09-20 20:43:44 --> Trying to access array offset on value of type null
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(330): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(14): App\Controllers\Admin->check_admin()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->index()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-09-20 20:43:46 --> Trying to access array offset on value of type null
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(330): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(72): App\Controllers\Admin->check_admin()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->show_members()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-09-20 20:44:12 --> Trying to access array offset on value of type null
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(330): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(14): App\Controllers\Admin->check_admin()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->index()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-09-20 20:44:15 --> Trying to access array offset on value of type null
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(330): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(72): App\Controllers\Admin->check_admin()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->show_members()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-09-20 20:44:16 --> Trying to access array offset on value of type null
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(330): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(14): App\Controllers\Admin->check_admin()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->index()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

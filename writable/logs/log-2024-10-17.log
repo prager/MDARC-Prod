@@ -1,0 +1,8 @@
+CRITICAL - 2024-10-17 10:49:58 --> Trying to access array offset on value of type null
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(330): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(469): App\Controllers\Admin->check_admin()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->payment_report()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}

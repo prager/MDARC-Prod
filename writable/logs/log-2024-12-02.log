@@ -1,0 +1,156 @@
+CRITICAL - 2024-12-02 12:46:24 --> Class "App\Libraries\PHPMailer_lib" not found
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->test_email()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2024-12-02 12:46:54 --> Class "App\Libraries\PHPMailer_lib" not found
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->test_email()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2024-12-02 12:54:33 --> Call to a member function isSMTP() on null
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->test_email()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2024-12-02 12:55:54 --> Class "App\Libraries\PHPMailer_lib" not found
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->test_email()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2024-12-02 13:04:16 --> Class "App\Libraries\PHPMailer_lib" not found
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->test_email()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2024-12-02 13:06:25 --> Debug is an invalid log level.
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/Log/Logger.php(257): CodeIgniter\Log\Exceptions\LogException::forInvalidLogLevel()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/Common.php(765): CodeIgniter\Log\Logger->log()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Libraries/Phpmailer_lib.php(20): log_message()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(29): App\Libraries\Phpmailer_lib->__construct()
+#4 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->test_email()
+#5 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#6 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2024-12-02 13:12:36 --> Class "App\Libraries\Phpmailer" not found
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->test_email()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2024-12-02 13:19:01 --> Class "App\Libraries\Phpmailer" not found
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(802): App\Controllers\BaseController->initController()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(401): CodeIgniter\CodeIgniter->createController()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2024-12-02 13:21:11 --> Class "App\Libraries\Phpmailer" not found
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->test_email()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2024-12-02 13:29:22 --> Class "App\Libraries\Phpmailer" not found
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->test_email()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2024-12-02 13:36:53 --> Class "App\Libraries\Phpmailer" not found
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->test_email()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2024-12-02 13:39:22 --> Debug is an invalid log level.
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/Log/Logger.php(257): CodeIgniter\Log\Exceptions\LogException::forInvalidLogLevel()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/Common.php(765): CodeIgniter\Log\Logger->log()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Libraries/Phpmailer.php(17): log_message()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(30): App\Libraries\Phpmailer->__construct()
+#4 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->test_email()
+#5 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#6 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+ERROR - 2024-12-02 14:15:43 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number
+CRITICAL - 2024-12-02 14:19:43 --> require(/homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev//PHPMailer/Exception.php): Failed to open stream: No such file or directory
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(53): require()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->test_email()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-12-02 14:20:25 --> require(/homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/ThirdParty/PHPMailer/Exception.php): Failed to open stream: No such file or directory
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(53): require()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->test_email()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-12-02 14:20:40 --> require(/homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev//ThirdParty/PHPMailer/Exception.php): Failed to open stream: No such file or directory
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(53): require()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->test_email()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-12-02 14:22:36 --> require(/homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev//PHPMailer/Exception.php): Failed to open stream: No such file or directory
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(53): require()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->test_email()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-12-02 14:23:11 --> require(/homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev//PHPMailer/Exception.php): Failed to open stream: No such file or directory
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(53): require()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->test_email()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-12-02 14:23:12 --> require(/homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev//PHPMailer/Exception.php): Failed to open stream: No such file or directory
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(53): require()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->test_email()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-12-02 14:25:01 --> require(/homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev//PHPMailer/PHPMailer/Exception.php): Failed to open stream: No such file or directory
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(53): require()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->test_email()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-12-02 14:25:40 --> require(/homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev//ThirdParty/PHPMailer/Exception.php): Failed to open stream: No such file or directory
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(53): require()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->test_email()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-12-02 14:25:53 --> require(/homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/ThirdParty/PHPMailer/Exception.php): Failed to open stream: No such file or directory
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(53): require()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->test_email()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+ERROR - 2024-12-02 14:34:02 --> Email: sendWithSmtp throwed fsockopen(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1408F10B:SSL routines:ssl3_get_record:wrong version number

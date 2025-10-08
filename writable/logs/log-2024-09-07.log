@@ -1,0 +1,229 @@
+CRITICAL - 2024-09-07 16:19:26 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(465): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->payment_report()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-09-07 16:21:55 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(465): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->payment_report()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-09-07 16:22:22 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(465): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->payment_report()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-09-07 16:22:45 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(465): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->payment_report()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-09-07 16:22:58 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(465): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->payment_report()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-09-07 16:23:03 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(465): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->payment_report()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-09-07 16:23:17 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(465): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->payment_report()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-09-07 16:23:48 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(465): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->payment_report()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-09-07 16:23:57 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(465): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->payment_report()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-09-07 16:26:37 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(465): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->payment_report()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-09-07 16:28:14 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(465): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->payment_report()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-09-07 16:29:15 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(465): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->payment_report()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-09-07 16:29:19 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(465): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->payment_report()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-09-07 16:29:44 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(465): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->payment_report()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-09-07 16:30:04 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(465): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->payment_report()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-09-07 16:30:08 --> You must set the database table to be used with your query.
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(545): CodeIgniter\Database\BaseConnection->table()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Model.php(717): CodeIgniter\Model->builder()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(465): CodeIgniter\Model->__call()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->payment_report()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2024-09-07 22:20:33 --> Attempt to read property "fname" on null
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Models/Admin_model.php(150): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(482): App\Models\Admin_model->get_payments()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->proc_payments_report()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-09-07 22:26:33 --> Attempt to read property "fname" on null
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Models/Admin_model.php(151): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(482): App\Models\Admin_model->get_payments()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->proc_payments_report()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-09-07 22:26:44 --> Attempt to read property "fname" on null
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Models/Admin_model.php(151): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(482): App\Models\Admin_model->get_payments()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->proc_payments_report()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-09-07 23:07:25 --> date(): Argument #2 ($timestamp) must be of type ?int, string given
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Models/Admin_model.php(131): date()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(482): App\Models\Admin_model->get_payments()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->proc_payments_report()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-09-07 23:08:26 --> date(): Argument #2 ($timestamp) must be of type ?int, string given
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Models/Admin_model.php(134): date()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(482): App\Models\Admin_model->get_payments()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->proc_payments_report()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-09-07 23:18:35 --> strtotime(): Argument #2 ($baseTimestamp) must be of type ?int, string given
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Models/Admin_model.php(131): strtotime()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(482): App\Models\Admin_model->get_payments()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->proc_payments_report()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-09-07 23:28:42 --> Undefined property: stdClass::$id_payments
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Models/Admin_model.php(171): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(482): App\Models\Admin_model->get_payments()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->proc_payments_report()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-09-07 23:40:57 --> Undefined constant "App\Models\length"
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Models/Admin_model.php(184): App\Models\Admin_model->toMoney()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(482): App\Models\Admin_model->get_payments()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->proc_payments_report()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2024-09-07 23:50:05 --> Class "App\Models\NumberFormatter" not found
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(482): App\Models\Admin_model->get_payments()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->proc_payments_report()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-09-07 23:52:18 --> Class "App\Models\NumberFormatter" not found
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(482): App\Models\Admin_model->get_payments()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->proc_payments_report()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2024-09-07 23:52:28 --> Class "App\Models\NumberFormatter" not found
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Admin.php(482): App\Models\Admin_model->get_payments()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Admin->proc_payments_report()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}

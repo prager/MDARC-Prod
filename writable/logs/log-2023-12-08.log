@@ -1,0 +1,13 @@
+CRITICAL - 2023-12-08 13:19:12 --> Class "Config\Database" not found
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/system/Debug/Toolbar/Collectors/Database.php(69): CodeIgniter\Debug\Toolbar\Collectors\Database->getConnections()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/Debug/Toolbar.php(62): CodeIgniter\Debug\Toolbar\Collectors\Database->__construct()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/Config/Services.php(626): CodeIgniter\Debug\Toolbar->__construct()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/Config/BaseService.php(248): CodeIgniter\Config\Services::toolbar()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/Config/BaseService.php(189): CodeIgniter\Config\BaseService::__callStatic()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/Config/Services.php(621): CodeIgniter\Config\BaseService::getSharedInstance()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/system/Config/BaseService.php(248): CodeIgniter\Config\Services::toolbar()
+#7 /homepages/36/d117019790/htdocs/mdarc-dev/app/Config/Events.php(48): CodeIgniter\Config\BaseService::__callStatic()
+#8 /homepages/36/d117019790/htdocs/mdarc-dev/system/Events/Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#9 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(300): CodeIgniter\Events\Events::trigger()
+#10 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#11 {main}

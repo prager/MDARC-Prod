@@ -1,0 +1,18 @@
+CRITICAL - 2025-10-06 13:08:28 --> Invalid file: status/email_send_view.php
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/Common.php(1097): CodeIgniter\View\View->render()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(54): view()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->send_mail()
+#4 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2025-10-06 13:42:16 --> require_once(/homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Libraries/PHPMailer/src/Exception.php): Failed to open stream: No such file or directory
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Libraries/MailService.php(12): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Libraries/MailService.php(12): require_once()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Home.php(54): App\Libraries\MailService->sendMail()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->send_mail()
+#4 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

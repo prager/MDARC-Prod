@@ -1,0 +1,31 @@
+CRITICAL - 2024-08-08 15:49:10 --> Undefined array key ""
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Views/public/register_view.php(58): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/View/View.php(214): include('/homepages/36/d...')
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/Common.php(1097): CodeIgniter\View\View->render()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Home.php(200): view()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->send_reg()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#7 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-08-08 21:02:16 --> Undefined array key ""
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Views/public/register_view.php(58): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/system/View/View.php(214): include('/homepages/36/d...')
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/Common.php(1097): CodeIgniter\View\View->render()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Home.php(200): view()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Home->send_reg()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#7 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-08-08 21:02:20 --> Undefined array key ""
+#0 /homepages/36/d117019790/htdocs/mdarc-dev/app/Models/Staff_model.php(747): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /homepages/36/d117019790/htdocs/mdarc-dev/app/Models/Staff_model.php(526): App\Models\Staff_model->get_mem_type()
+#2 /homepages/36/d117019790/htdocs/mdarc-dev/app/Controllers/Member.php(146): App\Models\Staff_model->edit_mem()
+#3 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Member->process_mem()
+#4 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /homepages/36/d117019790/htdocs/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /homepages/36/d117019790/htdocs/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

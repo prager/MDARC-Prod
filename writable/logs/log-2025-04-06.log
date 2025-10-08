@@ -1,0 +1,9 @@
+CRITICAL - 2025-04-06 19:37:40 --> Invalid file: staff/print_callsigns.php
+#0 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/Common.php(1097): CodeIgniter\View\View->render()
+#2 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/app/Controllers/Member.php(72): view()
+#3 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(824): App\Controllers\Member->print_callsigns()
+#4 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#5 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /homepages/36/d117019790/htdocs/mdarc-all/mdarc-dev/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

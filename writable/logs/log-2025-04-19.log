@@ -1,0 +1,5 @@
+ERROR - 2025-04-19 19:02:11 --> Email: sendWithSmtp throwed stream_socket_enable_crypto(): SSL: Handshake timed out
+ERROR - 2025-04-19 19:07:14 --> Email: sendWithSmtp throwed stream_socket_enable_crypto(): SSL: Handshake timed out
+ERROR - 2025-04-19 19:09:43 --> Email: sendWithSmtp throwed stream_socket_enable_crypto(): SSL: Handshake timed out
+ERROR - 2025-04-19 19:11:50 --> Email: sendWithSmtp throwed stream_socket_enable_crypto(): SSL: Handshake timed out
+ERROR - 2025-04-19 19:23:25 --> Email: sendWithSmtp throwed stream_socket_enable_crypto(): SSL: Handshake timed out
