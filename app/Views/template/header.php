@@ -10,7 +10,7 @@
   <!-- Option 1: Include in HTML -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
   <link rel="shortcut icon" href="/img/mdarc-icon.ico" type="image/x-icon">
-  <title>MDARC Membership v. Dev</title>
+  <title>MDARC Membership v. Prod</title>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <script src="https://www.google.com/recaptcha/api.js?render=<?= getenv('GOOGLE_RECAPTCHAV3_SITEKEY') ?>"></script>
   
@@ -43,11 +43,11 @@
                   About
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="helpMenu">
-                  <li class="nav-link"><a ><a href="<?php echo base_url() . '/index.php/contact'; ?>" class="dropdown-item"> &nbsp; Contact</a></li>
+                  <!-- <li class="nav-link"><a ><a href="<?php echo base_url() . '/index.php/contact'; ?>" class="dropdown-item"> &nbsp; Contact</a></li> -->
                   <!-- <li><hr class="dropdown-divider"></li>
                   <li class="nav-link"><a ><a href="<?php echo base_url() . '/index.php/faqs'; ?>" class="dropdown-item"> &nbsp; FAQs</a></li>                                     -->
-                  <li><hr class="dropdown-divider">
-                </li><li class="nav-link"><a ><a href="<?php echo base_url() . '/index.php/terms'; ?>" class="dropdown-item"> &nbsp; Terms of Service</a></li>
+                  <!-- <li><hr class="dropdown-divider"> </li> -->
+                  <li class="nav-link"><a ><a href="<?php echo base_url() . '/index.php/terms'; ?>" class="dropdown-item"> &nbsp; Terms of Service</a></li>
                 </ul>
               </li>
           </ul>

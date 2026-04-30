@@ -33,14 +33,14 @@ class Master extends BaseController {
 			$data['mem_types'] = $this->staff_mod->get_mem_types();
 			echo view('master/search_res_view.php', $data);
 	   }
-    else {
-	  	echo view('template/header');
-			$this->login_mod->logout();
-      $data['title'] = 'Login Error';
-      $data['msg'] = 'There was an error while checking your credentials.<br><br>';
-      echo view('status/status_view.php', $data);
-    }
-		echo view('template/footer.php');
+		else {
+			echo view('template/header');
+				$this->login_mod->logout();
+		$data['title'] = 'Login Error';
+		$data['msg'] = 'There was an error while checking your credentials.<br><br>';
+		echo view('status/status_view.php', $data);
+		}
+			echo view('template/footer.php');
 	}
 
 	public function res_mem() {
